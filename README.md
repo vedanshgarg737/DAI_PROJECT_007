@@ -16,8 +16,8 @@ Our approach is descriptive and exploratory. We will clean and standardise the t
 
 ### 1.2 Programming Languages or Tools/Software Intended
 
-- **Data cleaning and exploration:** Python (Pandas, NumPy) in Jupyter Notebooks.
-- **Visualisation:** Matplotlib and Seaborn for exploratory analysis and plots.
+- **Data cleaning and exploration:** Python (Pandas, NumPy, scipy.stats) in Jupyter Notebooks.
+- **Visualisation:** Matplotlib, Seaborn and Plotly for exploratory analysis and plots.
 - **Version control and collaboration:** Git and GitHub.
 
 ### 1.3 Datasets
